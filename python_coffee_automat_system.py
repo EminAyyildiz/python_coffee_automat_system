@@ -1,3 +1,7 @@
+
+#Written by Emin Ayyıldız
+print("Written by Emin Ayyıldız")
+
 import time
 
 coffee__types_and_prices = {"latte": 3.50,
